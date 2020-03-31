@@ -20,10 +20,7 @@
   
   Final Model used is xG Boost
     Precision - 77%
-    
     Recall - 74%
-    
     Accuracy - 80%
-    
     F1 Score - 75%
     
